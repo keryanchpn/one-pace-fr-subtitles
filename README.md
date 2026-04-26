@@ -16,6 +16,7 @@ Sous-titres en français pour [One Pace](https://onepace.net), générés automa
 | Long Ring Island (Davy Back Fight) | Season 17 | E01–E06 | ✅ Complet (6/6) |
 | Enies Lobby | Season 19 | E01–E25 | ✅ Complet (20/25 traduits via Gemini + E05–E09 FR natifs dans le MKV) |
 | Post-Enies Lobby | Season 20 | E01–E05 | ✅ Complet (5/5) |
+| Thriller Bark | Season 21 | E01–E22 | ✅ Complet (22/22) |
 
 ---
 
