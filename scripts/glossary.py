@@ -294,7 +294,7 @@ def apply_glossary(text: str) -> tuple[str, dict]:
     mapping: dict[str, str] = {}
     idx = 0
     for en_term, fr_term in sorted(GLOSSARY, key=lambda x: -len(x[0])):
-        pattern = re.compile(re.escape(en_term), re.IGNORECASE)
+        pattern = re.compile(r"\b" + re.escape(en_term) + r"\b", re.IGNORECASE)
         if pattern.search(text):
             placeholder = f"GLOSS{idx}"
             text = pattern.sub(placeholder, text)
