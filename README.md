@@ -112,5 +112,6 @@ Avec le tier gratuit, une saison de ~6 épisodes prend environ 5–10 minutes.
 ## Crédits
 
 - Sous-titres anglais source : [one-pace/one-pace-public-subtitles](https://github.com/one-pace/one-pace-public-subtitles)
+- Nomenclature des fichiers (SxxExx) : [SpykerNZ/one-pace-for-plex](https://github.com/SpykerNZ/one-pace-for-plex)
 - Traduction automatique : Google Gemini 2.5 Flash
 - Script & glossaire : championkeryan
