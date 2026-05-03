@@ -25,7 +25,9 @@ _SKIP_PATTERNS = re.compile(
 def _should_skip(style: str) -> bool:
     return bool(_SKIP_PATTERNS.search(style))
 
-RE_TAG = re.compile(r'\{[^}]*\}')
+# Vrais tags ASS : contiennent obligatoirement un \ (ex: {\i1}, {\fad(...)})
+# Les {texte lisible} sans \ sont des références One Pace, pas des tags ASS
+RE_TAG = re.compile(r'\{[^}]*\\[^}]*\}')
 RE_NL  = re.compile(r'\\N', re.IGNORECASE)
 
 
