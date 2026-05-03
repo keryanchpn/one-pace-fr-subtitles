@@ -77,241 +77,241 @@ Dialogue: 1,0:01:50.00,0:01:52.90,Title,,0,0,250,,{\bord0\blur0.6\fad(440,0)\4a&
 Dialogue: 0,0:01:53.90,0:01:55.68,Main-207+,,0,0,0,,C'est le mirage de tout à l'heure.
 Dialogue: 0,0:01:55.68,0:01:57.72,Main-207+,,0,0,0,,Au final, tu n'as qu'un seul corps.
 Dialogue: 0,0:01:57.72,0:02:00.25,Main-207+,,0,0,0,,C'est ça. L'un d'eux est le vrai moi.
-Dialogue: 0,0:02:00.25,0:02:05.18,Main-207+,,0,0,0,,The other four are illusions{\Nbeing reflected by the chilly air.} formed from reflections in the frigid air. {.}
+Dialogue: 0,0:02:00.25,0:02:05.18,Main-207+,,0,0,0,,Les quatre autres sont des illusions{\Nbeing reflected by the chilly air.} formées par les reflets dans l'air glacial. {.}
 Dialogue: 0,0:02:06.25,0:02:08.23,Main-207+,,0,0,0,,Des illusions, tu dis ?
 Dialogue: 0,0:02:08.23,0:02:11.25,Main-207+,,0,0,0,,Ça a l'air mystérieux et charmant.
-Dialogue: 0,0:02:11.25,0:02:13.25,Main-207+,,0,0,0,,But when you think about it {calmly}rationally,
-Dialogue: 0,0:02:13.25,0:02:17.24,Main-207+,,0,0,0,,{it becomes obvious that }illusions obviously don't have offensive power.
+Dialogue: 0,0:02:11.25,0:02:13.25,Main-207+,,0,0,0,,Mais quand on y pense {calmement}rationnellement,
+Dialogue: 0,0:02:13.25,0:02:17.24,Main-207+,,0,0,0,,{il devient évident que }les illusions n'ont évidemment pas de pouvoir offensif.
 Dialogue: 0,0:02:17.24,0:02:21.03,Main-207+,,0,0,0,,En d'autres termes, ce n'est qu'une menace vide.
 Dialogue: 0,0:02:21.03,0:02:22.24,Main-207+,,0,0,0,,C'est ça.
 Dialogue: 0,0:02:23.02,0:02:26.33,Main-207+,,0,0,0,,Alors tu deviens provocante ? Tu n'es pas douce du tout.
-Dialogue: 0,0:02:26.33,0:02:27.41,Main-207+,,0,0,0,,Thunder Charge!{\fad(150,150)}
-Dialogue: 0,0:02:29.25,0:02:32.27,Main-207+,,0,0,0,,Only one of these five{ of me} is real.
+Dialogue: 0,0:02:26.33,0:02:27.41,Main-207+,,0,0,0,,Thunder Charge !{\fad(150,150)}
+Dialogue: 0,0:02:29.25,0:02:32.27,Main-207+,,0,0,0,,Seul un de ces cinq{ moi} est réel.
 Dialogue: 0,0:02:32.27,0:02:34.27,Main-207+,,0,0,0,,Et alors ?
 Dialogue: 0,0:02:34.27,0:02:35.76,Main-207+,,0,0,0,,Et...
-Dialogue: 0,0:02:35.76,0:02:37.27,Main-207+,,0,0,0,,Thunder Ball!{\fad(150,150)}
-Dialogue: 0,0:02:38.17,0:02:42.76,Main-207+,,0,0,0,,Seuls 20 % de mes attaques sont réelles aussi. Pourquoi ne pas essayer de les esquiver ?
-Dialogue: 0,0:02:43.28,0:02:46.51,Thoughts-207+,,0,0,0,,Oh, shoot! I have to {guard}defend myself!\NWhich ones are {the }real{ ones}?!
-Dialogue: 0,0:02:49.27,0:02:51.66,Main-207+,,0,0,0,,{Its}Their power, on the other hand, is 100%.
+Dialogue: 0,0:02:35.76,0:02:37.27,Main-207+,,0,0,0,,Thunder Ball !{\fad(150,150)}
+Dialogue: 0,0:02:38.17,0:02:42.76,Main-207+,,0,0,0,,Seuls 20 % de mes attaques sont réelles aussi.\NPourquoi n'essaies-tu pas de les esquiver ?
+Dialogue: 0,0:02:43.28,0:02:46.51,Thoughts-207+,,0,0,0,,Oh, zut ! Je dois me {garder}défendre !\NLesquelles sont {les }vraies{ }?!
+Dialogue: 0,0:02:49.27,0:02:51.66,Main-207+,,0,0,0,,{Sa}Leur puissance, en revanche, est de 100 %.
 Dialogue: 0,0:03:03.66,0:03:06.48,Main-207+,,0,0,0,,C'est très différent de l'ancien Clima-Tact.
-Dialogue: 0,0:03:06.48,0:03:09.41,Main-207+,,0,0,0,,Une simple attaque de Boule de Foudre a autant de puissance.
-Dialogue: 0,0:03:09.41,0:03:12.83,Main-207+,,0,0,0,,With my next powerful attack, you'{ll fall}re done.
+Dialogue: 0,0:03:06.48,0:03:09.41,Main-207+,,0,0,0,,Une simple attaque Thunder Ball\Na autant de puissance.
+Dialogue: 0,0:03:09.41,0:03:12.83,Main-207+,,0,0,0,,Avec ma prochaine attaque puissante, tu {tomberas}es finie.
 Dialogue: 0,0:03:13.48,0:03:17.84,Main-207+,,0,0,0,,Quel genre de prédiction est-ce ? Quelle arrogance !
 Dialogue: 0,0:03:17.84,0:03:20.51,Main-207+,,0,0,0,,Ce n'est pas une prédiction. C'est une prévision.
-Dialogue: 0,0:03:20.51,0:03:22.90,Main-207+,,0,0,0,,I{'ve controlled} control both the humidity and temperature.
+Dialogue: 0,0:03:20.51,0:03:22.90,Main-207+,,0,0,0,,Je {contrôle}contrôle à la fois l'humidité et la température.
 Dialogue: 0,0:03:22.90,0:03:25.64,Main-207+,,0,0,0,,Le temps dans cette pièce m'appartient !
-Dialogue: 0,0:03:26.51,0:03:29.23,Main-207+,,0,0,0,,Quel est le problème avec le contrôle de la météo ?
-Dialogue: 0,0:03:29.23,0:03:31.98,Main-207+,,0,0,0,,Les Six Pouvoirs sont des techniques qui dépassent les capacités humaines.
+Dialogue: 0,0:03:26.51,0:03:29.23,Main-207+,,0,0,0,,Quel est le problème avec\Nle contrôle de la météo ?
+Dialogue: 0,0:03:29.23,0:03:31.98,Main-207+,,0,0,0,,Les Six Pouvoirs sont des techniques\Nqui dépassent les capacités humaines.
 Dialogue: 0,0:03:31.98,0:03:33.10,Main-207+,,0,0,0,,Quelle insolence !
 Dialogue: 0,0:03:34.14,0:03:35.40,Main-207+,,0,0,0,,Ce n'était pas le vrai !
-Dialogue: 0,0:03:35.40,0:03:39.15,Main-207+,,0,0,0,,Today, {The possibility of catching\Nthe real one today}the chance of finding the real me is {again}still 20%.
-Dialogue: 0,0:03:46.81,0:03:50.68,Main-207+,,0,0,0,,{According to today's weather forecast,\Nalthough}While atmospheric pressure is stable, today's skies show signs...
-Dialogue: 0,0:03:50.68,0:03:54.46,Main-207+,,0,0,0,,{small dark clouds with violent\Nair currents will remain stationary...}of a stationary front of small, dark clouds and violent winds.
-Dialogue: 0,0:03:54.46,0:03:58.55,Main-207+,,0,0,0,,{for a while, and soon they will shoot\Nthunderbolts through your chest.}Given time, a clap of thunder should signal the lightning that will pierce your chest.
-Dialogue: 0,0:03:58.55,0:04:02.26,Main-207+,,0,0,0,,{Please watch out for paralysis of the heart!}Beware of cardiac arrest!
-Dialogue: 0,0:04:02.26,0:04:04.43,Main-207+,,0,0,0,,Dark Cloud Tempo!{\fad(150,150)}
-Dialogue: 0,0:04:04.43,0:04:08.24,Main-207+,,0,0,0,,Si c'est la foudre, je t'ai montré tout à l'heure que je pouvais me protéger.
+Dialogue: 0,0:03:35.40,0:03:39.15,Main-207+,,0,0,0,,Aujourd'hui, {The possibility of catching\Nthe real one today}la chance de trouver le vrai moi est {encore}toujours de 20 %.
+Dialogue: 0,0:03:46.81,0:03:50.68,Main-207+,,0,0,0,,{According to today's weather forecast,\Nalthough}Alors que la pression atmosphérique est stable, le ciel d'aujourd'hui montre des signes...
+Dialogue: 0,0:03:50.68,0:03:54.46,Main-207+,,0,0,0,,{small dark clouds with violent\Nair currents will remain stationary...}d'un front stationnaire de petits nuages sombres et de vents violents.
+Dialogue: 0,0:03:54.46,0:03:58.55,Main-207+,,0,0,0,,{for a while, and soon they will shoot\Nthunderbolts through your chest.}Avec le temps, un coup de tonnerre devrait signaler l'éclair qui transpercera ta poitrine.
+Dialogue: 0,0:03:58.55,0:04:02.26,Main-207+,,0,0,0,,{Attention à la paralysie cardiaque !}Gare à l'arrêt cardiaque !
+Dialogue: 0,0:04:02.26,0:04:04.43,Main-207+,,0,0,0,,Dark Cloud Tempo !{\fad(150,150)}
+Dialogue: 0,0:04:04.43,0:04:08.24,Main-207+,,0,0,0,,Si c'est la foudre, je t'ai montré tout à l'heure que je pouvais me défendre.
 Dialogue: 0,0:04:08.24,0:04:09.64,Main-207+,,0,0,0,,Tant que je fais attention...
-Dialogue: 0,0:04:09.64,0:04:14.65,Main-207+,,0,0,0,,Le défaut de cette technique est que tu ne peux pas te déplacer en l'utilisant.
-Dialogue: 0,0:04:18.45,0:04:23.42,Main-207+,,0,0,0,,Tu me prends vraiment à la légère. Tu me dis de la briser avec une attaque ?!
+Dialogue: 0,0:04:09.64,0:04:14.65,Main-207+,,0,0,0,,Le défaut de cette technique est que\Ntu ne peux pas te déplacer en l'utilisant.
+Dialogue: 0,0:04:18.45,0:04:23.42,Main-207+,,0,0,0,,Tu me prends vraiment à la légère. Tu me\Ndis de la briser avec une attaque ?!
 Dialogue: 0,0:04:23.42,0:04:24.54,Main-207+,,0,0,0,,Alors...
-Dialogue: 0,0:04:24.54,0:04:26.37,Main-207+,,0,0,0,,Soap Sheep!{\fad(150,150)}
+Dialogue: 0,0:04:24.54,0:04:26.37,Main-207+,,0,0,0,,Soap Sheep !{\fad(150,150)}
 Dialogue: 0,0:04:27.00,0:04:29.35,Main-207+,,0,0,0,,Je n'ai pas besoin de savoir lequel est le vrai.
-Dialogue: 0,0:04:29.35,0:04:33.46,Main-207+,,0,0,0,,J'engloutirai tout avec une grande vague de Bulles Relaxantes.
-Dialogue: 0,0:04:35.25,0:04:36.33,Main-207+,,0,0,0,,Sheep Cloud!{\fad(150,150)}
-Dialogue: 0,0:04:38.55,0:04:40.50,Main-207+,,0,0,0,,Tidal Wave!{\fad(150,150)}
-Dialogue: 0,0:04:46.22,0:04:48.26,Main-207+,,0,0,0,,Je serai fichu si je me fais toucher par ça.
-Dialogue: 0,0:04:48.26,0:04:51.18,Main-207+,,0,0,0,,Celui qui sera par terre après que j'aie tout avalé sera le vrai.
+Dialogue: 0,0:04:29.35,0:04:33.46,Main-207+,,0,0,0,,J'engloutirai tout avec une\Ngrande vague de bulles relaxantes.
+Dialogue: 0,0:04:35.25,0:04:36.33,Main-207+,,0,0,0,,Sheep Cloud !{\fad(150,150)}
+Dialogue: 0,0:04:38.55,0:04:40.50,Main-207+,,0,0,0,,Tidal Wave !{\fad(150,150)}
+Dialogue: 0,0:04:46.22,0:04:48.26,Main-207+,,0,0,0,,Je serai fichue si je me fais toucher par ça.
+Dialogue: 0,0:04:48.26,0:04:51.18,Main-207+,,0,0,0,,Celui qui sera par terre après que j'aie\Ntout englouti sera le vrai.
 Dialogue: 0,0:04:51.18,0:04:53.68,Main-207+,,0,0,0,,Ça n'arrivera pas !
-Dialogue: 0,0:04:53.68,0:04:55.39,Main-207+,,0,0,0,,Cyclone Tempo!{\fad(150,150)}
+Dialogue: 0,0:04:53.68,0:04:55.39,Main-207+,,0,0,0,,Cyclone Tempo !{\fad(150,150)}
 Dialogue: 0,0:04:57.34,0:04:59.63,Main-207+,,0,0,0,,Elle a utilisé le vent pour souffler les bulles !
-Dialogue: 0,0:05:06.56,0:05:10.44,Main-207+,,0,0,0,,Mais il semble que celui qui a traversé est le vrai, hein ?
-Dialogue: 0,0:05:22.30,0:05:23.74,Main-207+,,0,0,0,,Finger Pistol!{\fad(150,150)}
+Dialogue: 0,0:05:06.56,0:05:10.44,Main-207+,,0,0,0,,Mais il semble que celle qui a\Ntraversé est la vraie, hein ?
+Dialogue: 0,0:05:22.30,0:05:23.74,Main-207+,,0,0,0,,Finger Pistol !{\fad(150,150)}
 Dialogue: 0,0:05:25.17,0:05:28.44,Main-207+,,0,0,0,,Oh ? Je pensais que c'était une autre illusion.
-Dialogue: 0,0:05:30.17,0:05:32.15,Main-207+,,0,0,0,,I won't let you {run around anymore.}get away again.
-Dialogue: 0,0:05:32.15,0:05:35.14,Main-207+,,0,0,0,,I'll just {turn}riddle your body {into Swiss cheese}with holes.
+Dialogue: 0,0:05:30.17,0:05:32.15,Main-207+,,0,0,0,,Je ne te laisserai plus {courir.}t'échapper.
+Dialogue: 0,0:05:32.15,0:05:35.14,Main-207+,,0,0,0,,Je vais juste {transformer}cribler ton corps {en gruyère}de trous.
 Dialogue: 0,0:05:40.18,0:05:42.11,Main-207+,,0,0,0,,Tu l'as déjà oublié, n'est-ce pas ?
-Dialogue: 0,0:05:43.07,0:05:47.03,Main-207+,,0,0,0,,You should pay attention to\Na navigator's weather forecast. {.}
-Dialogue: 0,0:05:52.56,0:05:55.17,Main-207+,,0,0,0,,{From the dark clouds to the Clima-Tact,}A thunderbolt will surge out...
-Dialogue: 0,0:05:55.17,0:05:56.75,Main-207+,,0,0,0,,{a thunderbolt will burst forth surge forward!}from the dark clouds to the Clima-Tact!
+Dialogue: 0,0:05:43.07,0:05:47.03,Main-207+,,0,0,0,,Tu devrais faire attention aux\Nprévisions météorologiques d'une navigatrice. {.}
+Dialogue: 0,0:05:52.56,0:05:55.17,Main-207+,,0,0,0,,{Des nuages sombres au Clima-Tact,}Un éclair jaillira...
+Dialogue: 0,0:05:55.17,0:05:56.75,Main-207+,,0,0,0,,{un éclair éclatera jaillira !}des nuages sombres au Clima-Tact !
 Dialogue: 0,0:06:04.01,0:06:04.51,Main-207+,,0,0,0,,Allez !
-Dialogue: 0,0:06:08.80,0:06:10.15,Thoughts-207+,,0,0,0,,The {one}clouds from earlier!
-Dialogue: 0,0:06:15.21,0:06:17.14,Main-207+,,0,0,0,,Thunder Lance Tempo!{\fad(150,150)}
+Dialogue: 0,0:06:08.80,0:06:10.15,Thoughts-207+,,0,0,0,,Les {un}nuages de tout à l'heure !
+Dialogue: 0,0:06:15.21,0:06:17.14,Main-207+,,0,0,0,,Thunder Lance Tempo !{\fad(150,150)}
 Dialogue: 0,0:06:22.38,0:06:24.23,Main-207+,,0,0,0,,Peu importe ta force,
-Dialogue: 0,0:06:24.23,0:06:26.94,Main-207+,,0,0,0,,my forecasts {is}are never wrong.
+Dialogue: 0,0:06:24.23,0:06:26.94,Main-207+,,0,0,0,,mes prévisions {est}sont toujours justes.
 Dialogue: 0,0:06:45.19,0:06:48.61,Main-207+,,0,0,0,,Mes amis m'attendent. Je prends ta clé.
 Dialogue: 0,0:06:55.76,0:06:58.54,Main-207+,,0,0,0,,Cerf-gorille ! Où es-tu allé ?!
-Dialogue: 0,0:06:58.54,0:07:01.76,Main-207+,,0,0,0,,Quoi ? Chopper ! Qu'est-ce que tu fais là ?!
+Dialogue: 0,0:06:58.54,0:07:01.76,Main-207+,,0,0,0,,Quoi ? Franky ! Qu'est-ce que tu fais là ?!
 Dialogue: 0,0:07:01.76,0:07:02.95,Main-207+,,0,0,0,,Oh, salut, madame.
-Dialogue: 0,0:07:04.65,0:07:07.77,Main-207+,,0,0,0,,Ce monstre de cerf-gorille de votre groupe est venu ici, n'est-ce pas ?
+Dialogue: 0,0:07:04.65,0:07:07.77,Main-207+,,0,0,0,,Ce monstre cerf-gorille de\Nvotre groupe est venu ici, n'est-ce pas ?
 Dialogue: 0,0:07:07.77,0:07:09.98,Main-207+,,0,0,0,,Cerf... Tu veux dire Chopper ?
 Dialogue: 0,0:07:09.98,0:07:11.99,Main-207+,,0,0,0,,Oui, ce cerf-gorille.
-Dialogue: 0,0:07:11.99,0:07:16.29,Main-207+,,0,0,0,,Oui, il est venu. Quel est le problème ? Que lui est-il arrivé ?
-Dialogue: 0,0:07:16.29,0:07:18.22,Main-207+,,0,0,0,,How should I know?! {I wanna\Nask that question myself!}That was my question!
-Dialogue: 0,0:07:18.22,0:07:21.96,Main-207+,,0,0,0,,{He }Isn't he someone who can transform {into something }like that?
-Dialogue: 0,0:07:21.96,0:07:25.17,Main-207+,,0,0,0,,Comment le saurais-je ?! Je ne l'ai jamais vu sous cette forme.
-Dialogue: 0,0:07:25.17,0:07:30.01,Main-207+,,0,0,0,,Je vois. Je pensais que vous saviez comment gérer ça.
-Dialogue: 0,0:07:30.01,0:07:32.84,Main-207+,,0,0,0,,Then, I guess I'll just kill him{ anyhow}.
-Dialogue: 0,0:07:34.76,0:07:38.44,Main-207+,,0,0,0,,Si tu redis ça, je te tue.
+Dialogue: 0,0:07:11.99,0:07:16.29,Main-207+,,0,0,0,,Oui, il est venu. Qu'est-ce qui se passe ?\NQu'est-ce qui lui est arrivé ?
+Dialogue: 0,0:07:16.29,0:07:18.22,Main-207+,,0,0,0,,Comment le saurais-je ?! {I wanna\Nask that question myself!}C'était ma question !
+Dialogue: 0,0:07:18.22,0:07:21.96,Main-207+,,0,0,0,,{Il }N'est-il pas quelqu'un qui peut se transformer {en quelque chose }comme ça ?
+Dialogue: 0,0:07:21.96,0:07:25.17,Main-207+,,0,0,0,,Comment le saurais-je ?!\NJe ne l'ai jamais vu sous cette forme.
+Dialogue: 0,0:07:25.17,0:07:30.01,Main-207+,,0,0,0,,Je vois. Je pensais que vous saviez\Ncomment gérer ça.
+Dialogue: 0,0:07:30.01,0:07:32.84,Main-207+,,0,0,0,,Alors, je suppose que je vais juste le tuer{ de toute façon}.
+Dialogue: 0,0:07:34.76,0:07:38.44,Main-207+,,0,0,0,,Si tu répètes ça, je te tue.
 Dialogue: 0,0:07:38.44,0:07:41.39,Main-207+,,0,0,0,,J-Je ne le dirai plus jamais. Plus jamais.
-Dialogue: 0,0:07:43.23,0:07:47.56,Main-207+,,0,0,0,,By the way, you're not bad {at all}yourself.\NYou took this woman down?
-Dialogue: 0,0:07:47.56,0:07:50.90,Main-207+,,0,0,0,,Her key is important: the No. 2 key{ is}.
-Dialogue: 0,0:07:50.90,0:07:54.32,Main-207+,,0,0,0,,The key! Hold on a sec. I was {searching}just looking for it.
+Dialogue: 0,0:07:43.23,0:07:47.56,Main-207+,,0,0,0,,Au fait, tu n'es pas mal {du tout}non plus.\NTu as vaincu cette femme ?
+Dialogue: 0,0:07:47.56,0:07:50.90,Main-207+,,0,0,0,,Sa clé est importante : la clé n°2{ est}.
+Dialogue: 0,0:07:50.90,0:07:54.32,Main-207+,,0,0,0,,La clé ! Attends une seconde. Je la {cherchais}cherchais justement.
 Dialogue: 0,0:07:54.76,0:07:57.78,Main-207+,,0,0,0,,Clé ! Clé ! Où l'as-tu cachée ?
-Dialogue: 0,0:07:57.78,0:08:00.04,Main-207+,,0,0,0,,Yow! Nice scandalous {action}behavior!
-Dialogue: 0,0:08:00.94,0:08:03.17,Main-207+,,0,0,0,,Qu'est-ce que c'est que ce monstre ?!
-Dialogue: 0,0:08:03.76,0:08:07.62,Main-207+,,0,0,0,,{There }Was there {another}someone else with a zoan-type ability{power holder}?!
-Dialogue: 0,0:08:07.62,0:08:09.97,Main-207+,,0,0,0,,Cela signifie-t-il que ce type fait aussi partie du CP9 ?!
-Dialogue: 0,0:08:09.97,0:08:13.47,Main-207+,,0,0,0,,À bien y penser, j'ai l'impression de l'avoir déjà vu.
+Dialogue: 0,0:07:57.78,0:08:00.04,Main-207+,,0,0,0,,Aïe ! Quelle {action}conduite scandaleuse !
+Dialogue: 0,0:08:00.94,0:08:03.17,Main-207+,,0,0,0,,C'est quoi ce monstre ?!
+Dialogue: 0,0:08:03.76,0:08:07.62,Main-207+,,0,0,0,,{Il }Y avait-il {un autre}quelqu'un d'autre avec une capacité de type Zoan{pouvoir} ?!
+Dialogue: 0,0:08:07.62,0:08:09.97,Main-207+,,0,0,0,,Ça veut dire que ce\Ntype fait aussi partie du CP9 ?!
+Dialogue: 0,0:08:09.97,0:08:13.47,Main-207+,,0,0,0,,Maintenant que j'y pense, j'ai l'impression\Nde l'avoir déjà vu.
 Dialogue: 0,0:08:14.30,0:08:16.05,Main-207+,,0,0,0,,Ch-Chopper ?!
 Dialogue: 0,0:08:21.30,0:08:23.69,Main-207+,,0,0,0,,Qu'est-ce que tu fais, Chopper ?! C'est nous !
 Dialogue: 0,0:08:23.69,0:08:25.60,Main-207+,,0,0,0,,Ahh ! Arrête !
-Dialogue: 0,0:08:27.77,0:08:31.24,Main-207+,,0,0,0,,Hé, c'est vraiment Chopper ?! Comment se fait-il qu'il ne nous reconnaisse pas ?!
-Dialogue: 0,0:08:31.42,0:08:36.42,Main-207+,,0,0,0,,Je ne sais pas, mais ça doit être Chopper ! Qui d'autre a ces bois et porte ce chapeau ?!
-Dialogue: 0,0:08:36.42,0:08:39.51,Main-207+,,0,0,0,,{Then, what about our hope and the No. 2 key?!}So, where's our only chance? Where's the No. 2 key?!
-Dialogue: 0,0:08:39.51,0:08:42.65,Main-207+,,0,0,0,,Qui sait ? C'est la fin ! On va mourir.
+Dialogue: 0,0:08:27.77,0:08:31.24,Main-207+,,0,0,0,,Hé, c'est vraiment Chopper ?!\NComment ça se fait qu'il ne nous reconnaisse pas ?!
+Dialogue: 0,0:08:31.42,0:08:36.42,Main-207+,,0,0,0,,Je ne sais pas, mais ça doit être Chopper !\NQui d'autre a ces bois et porte ce chapeau ?!
+Dialogue: 0,0:08:36.42,0:08:39.51,Main-207+,,0,0,0,,{Alors, qu'en est-il de notre espoir et de la clé n°2 ?!}Alors, où est notre seule chance ? Où est la clé n°2 ?!
+Dialogue: 0,0:08:39.51,0:08:42.65,Main-207+,,0,0,0,,Qui sait ? C'est ça ! On va mourir.
 Dialogue: 0,0:08:42.65,0:08:45.33,Main-207+,,0,0,0,,Mais quelque chose ne va pas.
-Dialogue: 0,0:08:46.10,0:08:49.84,Main-207+,,0,0,0,,N'est-ce pas lui qui a l'air d'être sur le point de mourir ?
-Dialogue: 0,0:08:49.84,0:08:52.86,Main-207+,,0,0,0,,It seems as if his {vitality}life force is rapidly {dimming}fading.
-Dialogue: 0,0:08:52.86,0:08:55.85,Main-207+,,0,0,0,,Qu-Qu-Qu'est-ce que ça veut dire ?
-Dialogue: 0,0:08:55.85,0:09:00.43,Main-207+,,0,0,0,,Il se peut que le fait de rester sous cette forme lui coûte trop d'énergie ou quelque chose comme ça.
-Dialogue: 0,0:09:00.43,0:09:04.07,Main-207+,,0,0,0,,Qu'est-ce que c'est que ça ?! Qu'est-ce qu'on fait de lui et des deux autres ?!
-Dialogue: 0,0:09:04.07,0:09:07.61,Main-207+,,0,0,0,,Hey, what{'s gonna happen} happened to the key?\NWhere's the No. 2 key?!
+Dialogue: 0,0:08:46.10,0:08:49.84,Main-207+,,0,0,0,,N'est-ce pas lui qui a l'air\Nd'être sur le point de mourir ?
+Dialogue: 0,0:08:49.84,0:08:52.86,Main-207+,,0,0,0,,Il semble que sa {vitalité}force vitale s'éteigne {rapidement}vite.
+Dialogue: 0,0:08:52.86,0:08:55.85,Main-207+,,0,0,0,,Q-Q-Qu'est-ce que ça veut dire ?
+Dialogue: 0,0:08:55.85,0:09:00.43,Main-207+,,0,0,0,,Il se peut que le fait qu'il reste sous cette forme\Nlui coûte trop d'énergie ou quelque chose comme ça.
+Dialogue: 0,0:09:00.43,0:09:04.07,Main-207+,,0,0,0,,Qu'est-ce que c'est que ça ?! Qu'est-ce qu'on fait\Npour lui et les deux autres ?!
+Dialogue: 0,0:09:04.07,0:09:07.61,Main-207+,,0,0,0,,Hé, qu'est-ce qui {va arriver}est arrivé à la clé ?\NOù est la clé n°2 ?!
 Dialogue: 0,0:09:07.61,0:09:09.89,Main-207+,,0,0,0,,Je ne sais pas ce qui s'est passé,
 Dialogue: 0,0:09:09.89,0:09:13.85,Main-207+,,0,0,0,,mais il a dû se battre incroyablement fort...
 Dialogue: 0,0:09:14.63,0:09:16.91,Main-207+,,0,0,0,,Si fort qu'il s'est transformé en ça.
 Dialogue: 0,0:09:16.91,0:09:18.12,Main-207+,,0,0,0,,N°2...
-Dialogue: 0,0:09:22.70,0:09:26.75,Main-207+,,0,0,0,,{We got interrupted}That's quite the interruption. What's that monster?
-Dialogue: 0,0:09:26.75,0:09:29.09,Main-207+,,0,0,0,,{When t}The buster call is imminent.
-Dialogue: 0,0:09:29.09,0:09:32.71,Main-207+,,0,0,0,,Bien sûr qu'il nous interromprait. Il semble que ce soit un de ces pirates.
+Dialogue: 0,0:09:22.70,0:09:26.75,Main-207+,,0,0,0,,{Nous avons été interrompus}C'est une sacrée interruption. C'est quoi ce monstre ?
+Dialogue: 0,0:09:26.75,0:09:29.09,Main-207+,,0,0,0,,{Quand l}Le Buster Call est imminent.
+Dialogue: 0,0:09:29.09,0:09:32.71,Main-207+,,0,0,0,,Bien sûr qu'il nous interromprait.\NIl semble que ce soit un de ces pirates.
 Dialogue: 0,0:09:33.63,0:09:35.07,Main-207+,,0,0,0,,Tout ce qui nous gêne...
-Dialogue: 0,0:09:35.07,0:09:36.82,Main-207+,,0,0,0,,Doit être éliminé.
-Dialogue: 0,0:09:39.84,0:09:41.08,Main-207+,,0,0,0,,Although {this is a small fry...}he's insignificant...
-Dialogue: 0,0:09:41.08,0:09:43.85,Main-207+,,0,0,0,,We've got {another piece of}more prey.
+Dialogue: 0,0:09:35.07,0:09:36.82,Main-207+,,0,0,0,,Devrait être éliminé.
+Dialogue: 0,0:09:39.84,0:09:41.08,Main-207+,,0,0,0,,Bien que {ce soit un petit poisson...}il soit insignifiant...
+Dialogue: 0,0:09:41.08,0:09:43.85,Main-207+,,0,0,0,,Nous avons {une autre pièce de}plus de proie.
 Dialogue: 0,0:09:43.85,0:09:46.51,Main-207+,,0,0,0,,Mince ! Ils vont attaquer Chopper !
-Dialogue: 0,0:09:46.51,0:09:49.08,Main-207+,,0,0,0,,Redresse ton dos, lame nommée Tempête de Nez.
+Dialogue: 0,0:09:46.51,0:09:49.08,Main-207+,,0,0,0,,Redresse ton dos,\Nlame nommée Tempête de Nez.
 Dialogue: 0,0:09:49.08,0:09:51.77,Main-207+,,0,0,0,,H-Hé ! Qu'est-ce que tu vas faire ?!
-Dialogue: 0,0:09:51.77,0:09:54.22,Main-207+,,0,0,0,,36-Pound Phoenix!{\fad(150,150)}
+Dialogue: 0,0:09:51.77,0:09:54.22,Main-207+,,0,0,0,,Phoenix à 36 livres !{\fad(150,150)}
 Dialogue: 0,0:09:56.90,0:09:58.07,Main-207+,,0,0,0,,Espèce de salaud !
-Dialogue: 0,0:09:58.85,0:10:00.19,Main-207+,,0,0,0,,Écartez-vous, vous deux !
-Dialogue: 0,0:10:00.19,0:10:02.28,Main-207+,,0,0,0,,– Hein ? – Ce type...!
-Dialogue: 0,0:10:02.28,0:10:04.62,Main-207+,,0,0,0,,Chopper ! Qu'est-ce que tu essaies de faire ?!
+Dialogue: 0,0:09:58.85,0:10:00.19,Main-207+,,0,0,0,,Écartez-vous, vous autres !
+Dialogue: 0,0:10:00.19,0:10:02.28,Main-207+,,0,0,0,,– Hein ?\N– Ce type...!
+Dialogue: 0,0:10:02.28,0:10:04.62,Main-207+,,0,0,0,,Franky ! Qu'est-ce que tu essaies de faire ?!
 Dialogue: 0,0:10:04.62,0:10:05.87,Main-207+,,0,0,0,,C'est l'un des nôtres...
 Dialogue: 0,0:10:05.87,0:10:07.96,Main-207+,,0,0,0,,Je sais ! Tais-toi.
-Dialogue: 0,0:10:11.86,0:10:14.83,Main-207+,,0,0,0,,C'est la seule façon que je puisse imaginer de le gérer.
-Dialogue: 0,0:10:14.83,0:10:16.92,Main-207+,,0,0,0,,{Power holders}Everyone with devil fruit powers ha{ve}s a weakness.
-Dialogue: 0,0:10:16.92,0:10:18.87,Main-207+,,0,0,0,,I'll push him {off}out to {the }sea.
-Dialogue: 0,0:10:18.87,0:10:21.43,Main-207+,,0,0,0,,J'y vais doucement, alors supporte-moi !
+Dialogue: 0,0:10:11.86,0:10:14.83,Main-207+,,0,0,0,,C'est la seule façon que je\Npuisse imaginer de le gérer.
+Dialogue: 0,0:10:14.83,0:10:16.92,Main-207+,,0,0,0,,{Les détenteurs de pouvoir}Tous ceux qui ont les pouvoirs de Fruit du Démon ont une faiblesse.
+Dialogue: 0,0:10:16.92,0:10:18.87,Main-207+,,0,0,0,,Je vais le pousser {hors}vers la mer.
+Dialogue: 0,0:10:18.87,0:10:21.43,Main-207+,,0,0,0,,J'irai doucement, alors supporte-moi !
 Dialogue: 0,0:10:23.14,0:10:24.91,Main-207+,,0,0,0,,Coup de...{\fad(150,150)}
-Dialogue: 0,0:10:26.81,0:10:27.77,Main-207+,,0,0,0,,Vent!{\fad(150,150)}
-Dialogue: 0,0:10:37.57,0:10:40.84,Main-207+,,0,0,0,,Espèce de salaud, Chopper ! C'est imprudent !
+Dialogue: 0,0:10:26.81,0:10:27.77,Main-207+,,0,0,0,,Vent !{\fad(150,150)}
+Dialogue: 0,0:10:37.57,0:10:40.84,Main-207+,,0,0,0,,Espèce de salaud, Franky ! C'est imprudent !
 Dialogue: 0,0:10:40.84,0:10:43.33,Main-207+,,0,0,0,,Qu'est-ce que tu fais à notre ami ?!
-Dialogue: 0,0:10:43.86,0:10:47.18,Main-207+,,0,0,0,,Ne vous inquiétez pas. Il en a discuté avec moi auparavant.
+Dialogue: 0,0:10:43.86,0:10:47.18,Main-207+,,0,0,0,,Ne t'inquiète pas. Il en a\Ndiscuté avec moi avant.
 Dialogue: 0,0:10:47.18,0:10:48.29,Main-207+,,0,0,0,,Quoi ?
 Dialogue: 0,0:11:01.09,0:11:05.29,Main-207+,,0,0,0,,Qu'est-ce qu'ils font, attaquer les leurs ?
-Dialogue: 0,0:11:05.29,0:11:08.14,Main-207+,,0,0,0,,Ils font vraiment tout un plat.
-Dialogue: 0,0:11:16.94,0:11:18.44,Main-207+,,0,0,0,,So you're finally {released}free?
+Dialogue: 0,0:11:05.29,0:11:08.14,Main-207+,,0,0,0,,Ils font vraiment beaucoup de bruit.
+Dialogue: 0,0:11:16.94,0:11:18.44,Main-207+,,0,0,0,,Alors tu es enfin {libéré}libre ?
 Dialogue: 0,0:11:19.84,0:11:22.41,Main-207+,,0,0,0,,Tu ferais mieux d'arrêter de sourire et de commencer à regretter.
 Dialogue: 0,0:11:22.94,0:11:24.87,Main-207+,,0,0,0,,Plus jamais...
-Dialogue: 0,0:11:25.63,0:11:29.95,Main-207+,,0,0,0,,will you get a chance {like\Nyou had earlier to slay me...}to kill me like the one you just had,
-Dialogue: 0,0:11:31.30,0:11:33.08,Main-207+,,0,0,0,,Chopper !
-Dialogue: 0,0:11:33.59,0:11:35.46,Main-207+,,0,0,0,,Battleships are {coming to}preparing their attack!
-Dialogue: 0,0:11:35.46,0:11:36.84,Main-207+,,0,0,0,,Quittez Enies Lobby !
-Dialogue: 0,0:11:36.84,0:11:38.72,Main-207+,,0,0,0,,Ils vont commencer à tirer des canons !
+Dialogue: 0,0:11:25.63,0:11:29.95,Main-207+,,0,0,0,,tu n'auras une chance {like\Nyou had earlier to slay me...}de me tuer comme celle que tu viens d'avoir,
+Dialogue: 0,0:11:31.30,0:11:33.08,Main-207+,,0,0,0,,Gouvernement Mondial !
+Dialogue: 0,0:11:33.59,0:11:35.46,Main-207+,,0,0,0,,Les cuirassés {arrivent pour}préparent leur attaque !
+Dialogue: 0,0:11:35.46,0:11:36.84,Main-207+,,0,0,0,,Descendez de Enies Lobby !
+Dialogue: 0,0:11:36.84,0:11:38.72,Main-207+,,0,0,0,,Ils vont commencer à tirer les canons !
 Dialogue: 0,0:11:38.72,0:11:40.26,Main-207+,,0,0,0,,Tout le monde, quittez l'île !
-Dialogue: 0,0:11:40.26,0:11:42.17,Main-207+,,0,0,0,,Nous allons être entraînés dans le Buster Call !
-Dialogue: 0,0:11:42.17,0:11:44.81,Main-207+,,0,0,0,,Nous mourrons si nous restons ici !
-Dialogue: 0,0:11:51.77,0:11:54.79,Main-207+,,0,0,0,,Arrête, Chopper !
+Dialogue: 0,0:11:40.26,0:11:42.17,Main-207+,,0,0,0,,On va être entraînés dans le Buster Call !
+Dialogue: 0,0:11:42.17,0:11:44.81,Main-207+,,0,0,0,,On va mourir si on reste ici !
+Dialogue: 0,0:11:51.77,0:11:54.79,Main-207+,,0,0,0,,Arrête, Nico Robin !
 Dialogue: 0,0:11:55.76,0:11:59.80,Main-207+,,0,0,0,,Même si vous rebroussez chemin,\Nvous ne trouverez que des cadavres de pirates !
 Dialogue: 0,0:12:03.83,0:12:05.45,Main-207+,,0,0,0,,Ça suffit.
 Dialogue: 0,0:12:07.12,0:12:09.88,Main-207+,,0,0,0,,Donne-lui une leçon, Funkfreed !
 Dialogue: 0,0:12:12.04,0:12:14.42,Thoughts-207+,,0,0,0,,Luffy est juste devant.
 Dialogue: 0,0:12:16.67,0:12:18.81,Main-207+,,0,0,0,,Ne la frappe pas aux points vitaux, compris ?
 Dialogue: 0,0:12:20.84,0:12:23.46,Main-207+,,0,0,0,,Ivoire...{\fad(150,150)}
-Dialogue: 0,0:12:23.46,0:12:24.82,Main-207+,,0,0,0,,Dard !{\fad(150,150)}
+Dialogue: 0,0:12:23.46,0:12:24.82,Main-207+,,0,0,0,,Fléchette !{\fad(150,150)}
 Dialogue: 0,0:12:41.06,0:12:43.59,Main-207+,,0,0,0,,Je ne te laisserai pas t'échapper, idiote !
 Dialogue: 0,0:12:43.59,0:12:45.20,Main-207+,,0,0,0,,Ne me sous-estime pas !
-Dialogue: 0,0:12:45.82,0:12:49.99,Main-207+,,0,0,0,,Maintenant, passons la\Nporte{s} de nos rêves{ together}.
-Dialogue: 0,0:12:55.84,0:12:57.78,Main-207+,,0,0,0,,Il est{ went} redevenu normal.
+Dialogue: 0,0:12:45.82,0:12:49.99,Main-207+,,0,0,0,,Maintenant, passons la\Nporte de nos rêves ensemble.
+Dialogue: 0,0:12:55.84,0:12:57.78,Main-207+,,0,0,0,,Il est redevenu normal.
 Dialogue: 0,0:13:02.05,0:13:04.22,Main-207+,,0,0,0,,Il ferait mieux de ne pas être mort.
 Dialogue: 0,0:13:04.22,0:13:08.14,Main-207+,,0,0,0,,Je ne m'attendais pas à ce que même ses amis\Nne sachent pas comment gérer ça.
-Dialogue: 0,0:13:08.14,0:13:11.44,Flashbacks-207+,,0,0,0,,Tu ne veux pas sauver Nico Robin ?!
+Dialogue: 0,0:13:08.14,0:13:11.44,Flashbacks-207+,,0,0,0,,Vous ne voulez pas sauver Nico Robin ?!
 Dialogue: 0,0:13:11.44,0:13:13.42,Flashbacks-207+,,0,0,0,,Si !
-Dialogue: 0,0:13:13.42,0:13:18.56,Main-207+,,0,0,0,,Bon, de toute façon, le fait {still }est\Nqu'il a mis hors d'état de nuire un membre du CP9.
-Dialogue: 0,0:13:20.07,0:13:23.73,Main-207+,,0,0,0,,En considération de tes amis qui t'ont\Ndéfendue même après que tu sois devenue...
-Dialogue: 0,0:13:23.73,0:13:27.24,Main-207+,,0,0,0,,une forme aussi terrible,\Nje te pardonne de m'avoir attaquée.
-Dialogue: 0,0:13:29.31,0:13:31.27,Main-207+,,0,0,0,,On ferait mieux de se dépêcher.
-Dialogue: 0,0:13:33.28,0:13:38.60,Main-207+,,0,0,0,,Mais... même si je me dépêche, je ne sais toujours pas\Ncomment aller aux Portes de la Justice.
+Dialogue: 0,0:13:13.42,0:13:18.56,Main-207+,,0,0,0,,Eh bien, de toute façon, le fait est\Nqu'il a éliminé un membre du CP9.
+Dialogue: 0,0:13:20.07,0:13:23.73,Main-207+,,0,0,0,,En considération de tes amis qui\Nt'ont défendue même après que tu sois devenue...
+Dialogue: 0,0:13:23.73,0:13:27.24,Main-207+,,0,0,0,,une forme si terrible,\Nje te pardonne de m'avoir attaquée.
+Dialogue: 0,0:13:29.31,0:13:31.27,Main-207+,,0,0,0,,Nous ferions mieux de nous dépêcher.
+Dialogue: 0,0:13:33.28,0:13:38.60,Main-207+,,0,0,0,,Mais... même si je me dépêche, je ne sais toujours pas\Ncomment me rendre aux Portes de la Justice.
 Dialogue: 0,0:13:40.26,0:13:42.28,Main-207+,,0,0,0,,Nous serons vos guides !
-Dialogue: 0,0:13:43.90,0:13:45.04,Main-207+,,0,0,0,,Les petits !
+Dialogue: 0,0:13:43.90,0:13:45.04,Main-207+,,0,0,0,,Petits !
 Dialogue: 0,0:13:45.04,0:13:46.59,Main-207+,,0,0,0,,J'ai trouvé Franky !
-Dialogue: 0,0:13:48.51,0:13:51.93,Main-207+,,0,0,0,,Quoi ?! Vous savez où est le\Npassage vers les Portes de la Justice ?!
-Dialogue: 0,0:13:51.93,0:13:55.83,Main-207+,,0,0,0,,Oui, on sait ! On est là pour être des guides !
-Dialogue: 0,0:13:57.39,0:13:59.15,Main-207+,,0,0,0,,Mamie est là-bas aussi.
-Dialogue: 0,0:13:59.15,0:14:01.17,Main-207+,,0,0,0,,Dis-moi où c'est tout de suite !
-Dialogue: 0,0:14:01.17,0:14:04.39,Main-207+,,0,0,0,,Et je vous donnerai, à toi et à la vieille Kokoro,\Ndes instructions sur ce que vous devez faire !
-Dialogue: 0,0:14:04.39,0:14:05.26,Main-207+,,0,0,0,,Bien.
+Dialogue: 0,0:13:48.51,0:13:51.93,Main-207+,,0,0,0,,Quoi ?! Vous savez où se trouve le\Npassage vers les Portes de la Justice ?!
+Dialogue: 0,0:13:51.93,0:13:55.83,Main-207+,,0,0,0,,Oui, nous savons ! Nous sommes là pour être des guides !
+Dialogue: 0,0:13:57.39,0:13:59.15,Main-207+,,0,0,0,,Grand-mère est là aussi.
+Dialogue: 0,0:13:59.15,0:14:01.17,Main-207+,,0,0,0,,Dites-moi où c'est tout de suite !
+Dialogue: 0,0:14:01.17,0:14:04.39,Main-207+,,0,0,0,,Et je vous donnerai, à vous et à la vieille Kokoro,\Ndes instructions sur ce que vous devez faire !
+Dialogue: 0,0:14:04.39,0:14:05.26,Main-207+,,0,0,0,,Bien reçu.
 Dialogue: 0,0:14:08.84,0:14:12.37,Main-207+,,0,0,0,,Il est inconscient, mais semble aller bien.
-Dialogue: 0,0:14:12.37,0:14:17.66,Main-207+,,0,0,0,,Oh, non ! Je dois apporter les clés\Nà Nico Robin le plus vite possible !
-Dialogue: 0,0:14:18.12,0:14:20.67,Main-207+,,0,0,0,,Vous {come later, too, with that deer!}amènerez ce cerf quand vous viendrez un peu plus tard !
+Dialogue: 0,0:14:12.37,0:14:17.66,Main-207+,,0,0,0,,Oh, non ! Je dois apporter les clés\Nà Nico Robin dès que possible !
+Dialogue: 0,0:14:18.12,0:14:20.67,Main-207+,,0,0,0,,Vous, apportez ce cerf quand vous viendrez un peu plus tard !
 Dialogue: 0,0:14:20.67,0:14:24.31,Main-207+,,0,0,0,,– D'accord.\N– Compris ! Vas-y, Franky !
-Dialogue: 0,0:14:29.24,0:14:33.31,Flashbacks-207+,,0,0,0,,Donc, nous n'avons pas d'autre choix que\Nde faire ça pour arrêter Chopper{ that way}.
-Dialogue: 0,0:14:33.31,0:14:38.35,Flashbacks-207+,,0,0,0,,Et ensuite, après ça, prenez ces\Nclés n°3 et n°4 et dépêchez-vous d'aller à Robin.
-Dialogue: 0,0:14:38.35,0:14:41.77,Flashbacks-207+,,0,0,0,,L'une d'elles pourrait ouvrir ses menottes.
-Dialogue: 0,0:14:41.77,0:14:45.70,Flashbacks-207+,,0,0,0,,Si c'est le cas, appelle-moi avec ce\Nescargophone portable que la secrétaire avait.
+Dialogue: 0,0:14:29.24,0:14:33.31,Flashbacks-207+,,0,0,0,,Donc, nous n'avons pas d'autre choix\Nque de faire ça pour arrêter Chopper de cette façon.
+Dialogue: 0,0:14:33.31,0:14:38.35,Flashbacks-207+,,0,0,0,,Et ensuite, après ça, prenez ces\Nclés n°3 et n°4 et dépêchez-vous d'aller voir Robin.
+Dialogue: 0,0:14:38.35,0:14:41.77,Flashbacks-207+,,0,0,0,,L'une d'elles pourrait déverrouiller ses menottes.
+Dialogue: 0,0:14:41.77,0:14:45.70,Flashbacks-207+,,0,0,0,,Si c'est le cas, appelez-moi en utilisant ce\Nescargophone portable que la secrétaire avait.
 Dialogue: 0,0:14:45.70,0:14:47.31,Flashbacks-207+,,0,0,0,,D'accord.
-Dialogue: 0,0:14:48.36,0:14:51.99,Flashbacks-207+,,0,0,0,,Laissez-moi libérer Zoro et Nez-Roi.
+Dialogue: 0,0:14:48.36,0:14:51.99,Flashbacks-207+,,0,0,0,,Laissez-moi le soin de libérer Zoro et Nez-de-Roi.
 Dialogue: 0,0:14:51.99,0:14:54.60,Flashbacks-207+,,0,0,0,,C'est bien, mais que ferons-nous après ça ?
 Dialogue: 0,0:14:54.60,0:14:59.48,Flashbacks-207+,,0,0,0,,Nous sommes venus jusqu'ici, mais même si\Nnous parvenons à sauver Nico Robin,
-Dialogue: 0,0:14:59.48,0:15:03.84,Flashbacks-207+,,0,0,0,,il n'y a toujours pas de pont entre cette tour\Net Enies Lobby. Donc on ne peut pas revenir.
+Dialogue: 0,0:14:59.48,0:15:03.84,Flashbacks-207+,,0,0,0,,il n'y a toujours pas de pont entre cette tour\Net Enies Lobby. Donc nous ne pouvons pas revenir.
 Dialogue: 0,0:15:03.84,0:15:05.35,Flashbacks-207+,,0,0,0,,Oui.
-Dialogue: 0,0:15:05.35,0:15:07.35,Flashbacks-207+,,0,0,0,,Maintenant qu'un Buster Call a été {requested}déclenché,
-Dialogue: 0,0:15:07.35,0:15:10.47,Flashbacks-207+,,0,0,0,,nous n'avons pas le temps de revenir\Npar où nous sommes venus.
-Dialogue: 0,0:15:10.47,0:15:11.14,Flashbacks-207+,,0,0,0,,{Then...}Alors ?
+Dialogue: 0,0:15:05.35,0:15:07.35,Flashbacks-207+,,0,0,0,,Maintenant qu'un Buster Call a été déclenché,
+Dialogue: 0,0:15:07.35,0:15:10.47,Flashbacks-207+,,0,0,0,,nous n'avons de toute façon pas le temps de\Nrevenir par où nous sommes venus.
+Dialogue: 0,0:15:10.47,0:15:11.14,Flashbacks-207+,,0,0,0,,Alors ?
 Dialogue: 0,0:15:11.14,0:15:14.30,Flashbacks-207+,,0,0,0,,Donc il n'y a pas de question, n'est-ce pas ?
 Dialogue: 0,0:15:17.23,0:15:19.70,Flashbacks-207+,,0,0,0,,Derrière nous, une cascade mortelle.\NDevant nous, un chemin mystérieux.
 Dialogue: 0,0:15:19.70,0:15:20.81,Flashbacks-207+,,0,0,0,,Lequel choisiriez-vous ?
-Dialogue: 0,0:15:20.81,0:15:22.56,Flashbacks-207+,,0,0,0,,Eh bien, je suppose que devant est la seule voie{, but...}.
-Dialogue: 0,0:15:22.56,0:15:26.25,Flashbacks-207+,,0,0,0,,Alors, quand nous aurons fini\Nce que nous avons à faire {in this tower}ici,
-Dialogue: 0,0:15:26.25,0:15:28.36,Flashbacks-207+,,0,0,0,,nous nous retrouverons tous aux Portes de la Justice !
+Dialogue: 0,0:15:20.81,0:15:22.56,Flashbacks-207+,,0,0,0,,Eh bien, je suppose que devant est la seule voie.
+Dialogue: 0,0:15:22.56,0:15:26.25,Flashbacks-207+,,0,0,0,,Alors, quand nous aurons fini ce que nous avons\Nà faire ici,
+Dialogue: 0,0:15:26.25,0:15:28.36,Flashbacks-207+,,0,0,0,,nous nous rassemblerons tous aux Portes de la Justice !
 Dialogue: 0,0:15:28.36,0:15:30.36,Flashbacks-207+,,0,0,0,,Quant à ce qui se passera après, laissez ça à...
 Dialogue: 0,0:15:30.36,0:15:32.02,Flashbacks-207+,,0,0,0,,– À toi ?!\N– À la chance !
 Dialogue: 0,0:15:32.02,0:15:33.62,Flashbacks-207+,,0,0,0,,La chance ?!
 Dialogue: 0,0:15:41.02,0:15:42.03,Main-207+,,0,0,0,,Nous avons...
 Dialogue: 0,0:15:42.03,0:15:43.75,Main-207+,,0,0,0,,Perdu pas mal de temps.
 Dialogue: 0,0:15:45.71,0:15:46.96,Main-207+,,0,0,0,,C'est clair !
-Dialogue: 0,0:15:47.12,0:15:50.17,Main-207+,,0,0,0,,Je n'arrive pas à croire que vous ayez été\Nsi stupides {at}pendant une {tough time}épreuve pareille !
+Dialogue: 0,0:15:47.12,0:15:50.17,Main-207+,,0,0,0,,Je n'arrive pas à croire que vous ayez été\Nsi stupides pendant une épreuve pareille !
 Dialogue: 0,0:15:50.17,0:15:53.13,Main-207+,,0,0,0,,C'est parce que ce type faisait des bêtises.
-Dialogue: 0,0:15:53.13,0:15:56.31,Main-207+,,0,0,0,,Vous êtes tous les deux {super stupid}sans cervelle !\NDépêchez-vous d'aller chercher leurs clés !
-Dialogue: 0,0:15:56.31,0:15:57.56,Main-207+,,0,0,0,,Jambe du Cyclone :{\fad(150,150)}
-Dialogue: 0,0:15:59.64,0:16:00.90,Main-207+,,0,0,0,,{Straight Line}Fil !{\fad(150,150)}
+Dialogue: 0,0:15:53.13,0:15:56.31,Main-207+,,0,0,0,,Vous êtes tous les deux idiots !\NDépêchez-vous de récupérer leurs clés !
+Dialogue: 0,0:15:56.31,0:15:57.56,Main-207+,,0,0,0,,Tempête de Jambes :{\fad(150,150)}
+Dialogue: 0,0:15:59.64,0:16:00.90,Main-207+,,0,0,0,,Fil !{\fad(150,150)}
 Dialogue: 0,0:16:03.13,0:16:05.79,Main-207+,,0,0,0,,C'est exactement ce que j'ai demandé. Bon travail, Zoro-{\i1}kun !{\i0}
 Dialogue: 0,0:16:05.79,0:16:07.26,Main-207+,,0,0,0,,Bats-toi ! Zoro !
 Dialogue: 0,0:16:07.26,0:16:09.36,Main-207+,,0,0,0,,Vous aussi, battez-vous !
-Dialogue: 0,0:16:13.36,0:16:14.95,Main-207+,,0,0,0,,Ce long cou que tu as...
+Dialogue: 0,0:16:13.36,0:16:14.95,Main-207+,,0,0,0,,Ce long cou...
 Dialogue: 0,0:16:15.38,0:16:17.45,Main-207+,,0,0,0,,Tu ferais mieux d'espérer qu'il ne\Ndevienne pas ton point faible.
 Dialogue: 0,0:16:17.45,0:16:19.45,Main-207+,,0,0,0,,Pas besoin de s'inquiéter pour ça.
-Dialogue: 0,0:16:22.79,0:16:26.50,Main-207+,,0,0,0,,{The muscles }J'ai développé des muscles assez forts\N{that I can even freely}pour me donner un contrôle total de mon cou.
+Dialogue: 0,0:16:22.79,0:16:26.50,Main-207+,,0,0,0,,J'ai développé des muscles assez forts\Npour me donner un contrôle total de mon cou.
 Dialogue: 0,0:16:26.50,0:16:27.79,Main-207+,,0,0,0,,Et ils ont aussi la puissance des balles !
-Dialogue: 0,0:16:28.80,0:16:30.30,Main-207+,,0,0,0,,Pistolet-Nez !{\fad(150,150)}
+Dialogue: 0,0:16:28.80,0:16:30.30,Main-207+,,0,0,0,,Pistolet Nasal !{\fad(150,150)}
 Dialogue: 0,0:16:38.37,0:16:40.14,Main-207+,,0,0,0,,Qu-Qu'est-ce que c'est que ça ?
-Dialogue: 0,0:16:40.14,0:16:42.35,Main-207+,,0,0,0,,Comment {To think }on{'d} peut ressentir un tel impact d'ici ?!
-Dialogue: 0,0:16:55.74,0:16:57.87,Main-207+,,0,0,0,,{That}Son nez a fait un trou carré dans {a}ce rocher !
+Dialogue: 0,0:16:40.14,0:16:42.35,Main-207+,,0,0,0,,Comment pouvons-nous ressentir un tel impact d'ici ?!
+Dialogue: 0,0:16:55.74,0:16:57.87,Main-207+,,0,0,0,,Son nez a fait un trou carré dans ce rocher !
 Dialogue: 0,0:16:57.87,0:16:59.69,Main-207+,,0,0,0,,Ce nez est plus incroyable que celui de Sogepp !
-Dialogue: 0,0:16:59.69,0:17:02.14,Main-207+,,0,0,0,,Qu-Qu-Qui tu traites de Sogepp ?!
-Dialogue: 0,0:17:02.14,0:17:03.70,Main-207+,,0,0,0,,Et ne fais pas de comparaisons {uncalled-for}inutiles\Ncomme ça !
-Dialogue: 0,0:17:03.70,0:17:05.61,Main-207+,,0,0,0,,Bon, quoi qu'il en soit...
-Dialogue: 0,0:17:05.61,0:17:09.25,Main-207+,,0,0,0,,Kaku est devenu assez\Ncompétent dans l'utilisation de ses pouvoirs.
-Dialogue: 0,0:17:10.50,0:17:15.35,Main-207+,,0,0,0,,L-Loup ! J-Je suis {the one you have to deal with}ton adversaire !
-Dialogue: 0,0:17:15.35,0:17:18.05,Main-207+,,0,0,0,,Hm ? {Well, d}Ne t'énerve pas autant.
+Dialogue: 0,0:16:59.69,0:17:02.14,Main-207+,,0,0,0,,Qu-Qu-Qui appelles-tu Sogepp ?!
+Dialogue: 0,0:17:02.14,0:17:03.70,Main-207+,,0,0,0,,Et ne fais pas de comparaisons\Ninutiles comme ça !
+Dialogue: 0,0:17:03.70,0:17:05.61,Main-207+,,0,0,0,,Eh bien, en tout cas...
+Dialogue: 0,0:17:05.61,0:17:09.25,Main-207+,,0,0,0,,Kaku est devenu assez\Nhabile à utiliser ses pouvoirs.
+Dialogue: 0,0:17:10.50,0:17:15.35,Main-207+,,0,0,0,,L-Loup ! C-C'est moi ton adversaire !
+Dialogue: 0,0:17:15.35,0:17:18.05,Main-207+,,0,0,0,,Hm ? Eh bien, ne t'énerve pas.
 Dialogue: 0,0:17:18.05,0:17:21.52,Main-207+,,0,0,0,,Vous voulez sauver votre ami, n'est-ce pas ?
-Dialogue: 0,0:17:21.52,0:17:25.89,Main-207+,,0,0,0,,C-C'est ça ! Je vais prendre ta clé !
+Dialogue: 0,0:17:21.52,0:17:25.89,Main-207+,,0,0,0,,C-C'est ça ! Je prendrai ta clé !
 Dialogue: 0,0:17:26.34,0:17:26.98,Main-207+,,0,0,0,,Hm ?
 Dialogue: 0,0:17:28.41,0:17:29.39,Main-207+,,0,0,0,,Hein ?
 Dialogue: 0,0:17:30.23,0:17:31.71,Main-207+,,0,0,0,,Dépêche-toi de la lui apporter.
 Dialogue: 0,0:17:31.71,0:17:33.12,Main-207+,,0,0,0,,Quoi ?
 Dialogue: 0,0:17:33.12,0:17:36.35,Main-207+,,0,0,0,,Va sauver Nico Robin.
-Dialogue: 0,0:17:36.35,0:17:38.62,Main-207+,,0,0,0,,M-Mais qu'est-ce que tu...
+Dialogue: 0,0:17:36.35,0:17:38.62,Main-207+,,0,0,0,,Qu-Qu'est-ce que tu...
 Dialogue: 0,0:17:39.03,0:17:45.21,Main-207+,,0,0,0,,Pour être honnête, je ne veux pas\Ntuer les gens. Je déteste le sang.
 Dialogue: 0,0:17:45.21,0:17:46.29,Main-207+,,0,0,0,,Hm ?
 Dialogue: 0,0:17:46.29,0:17:49.92,Main-207+,,0,0,0,,A-Alors, je vais juste...
@@ -319,32 +319,32 @@ Dialogue: 0,0:17:49.92,0:17:51.96,Main-207+,,0,0,0,,prendre la clé et...
 Dialogue: 0,0:17:53.59,0:17:55.35,Main-207+,,0,0,0,,Non ! Attention !
 Dialogue: 0,0:17:56.38,0:17:57.72,Main-207+,,0,0,0,,Pistolet à Dix Doigts !{\fad(150,150)}
 Dialogue: 0,0:18:02.39,0:18:04.22,Main-207+,,0,0,0,,Ne baisse pas ta garde.
-Dialogue: 0,0:18:04.22,0:18:08.27,Main-207+,,0,0,0,,Je suis un loup. Je {get}fais baisser la garde\Naux gens {and chew them up}puis je les attaque à la gorge.
+Dialogue: 0,0:18:04.22,0:18:08.27,Main-207+,,0,0,0,,Je suis un loup. Je mets les gens\Nhors de leur garde, puis je les égorge.
 Dialogue: 0,0:18:21.12,0:18:22.12,Main-207+,,0,0,0,,Usopp !
 Dialogue: 0,0:18:22.12,0:18:27.87,Thoughts-207+,,0,0,0,,M-Mince ! Qu'est-ce que je fais ?
 Dialogue: 0,0:18:30.14,0:18:32.04,Main-207+,,0,0,0,,Quel idiot masqué incroyable !
-Dialogue: 0,0:18:32.04,0:18:35.33,Main-207+,,0,0,0,,Pourquoi tu ne cours pas\Npartout comme tu l'as fait plus tôt ?
+Dialogue: 0,0:18:32.04,0:18:35.33,Main-207+,,0,0,0,,Pourquoi ne cours-tu pas\Ncomme tu l'as fait tout à l'heure ?
 Dialogue: 0,0:18:35.33,0:18:37.51,Main-207+,,0,0,0,,Tu es rapide comme l'éclair\Nquand tu t'enfuis.
 Dialogue: 0,0:18:37.51,0:18:39.33,Main-207+,,0,0,0,,Arrête de te moquer de moi.
 Dialogue: 0,0:18:40.14,0:18:41.18,Main-207+,,0,0,0,,Hein ?
 Dialogue: 0,0:18:42.37,0:18:46.47,Main-207+,,0,0,0,,Nous n'avons plus ce genre de temps.
-Dialogue: 0,0:18:47.38,0:18:49.69,Main-207+,,0,0,0,,{New weapon,}Kabuto Avancé !
-Dialogue: 0,0:18:49.69,0:18:52.02,Main-207+,,0,0,0,,{Special Attack!}Étoile Mortelle Tournesol !{\fad(150,150)}
+Dialogue: 0,0:18:47.38,0:18:49.69,Main-207+,,0,0,0,,Nouveau Kabuto !
+Dialogue: 0,0:18:49.69,0:18:52.02,Main-207+,,0,0,0,,Attaque Spéciale ! Étoile Tournesol Mortelle !{\fad(150,150)}
 Dialogue: 0,0:18:54.85,0:18:56.32,Main-207+,,0,0,0,,Oh ?
 Dialogue: 0,0:19:05.02,0:19:07.08,Main-207+,,0,0,0,,Oh, je vois. Des feux d'artifice, hein ?
 Dialogue: 0,0:19:08.66,0:19:09.70,Main-207+,,0,0,0,,Usopp !
 Dialogue: 0,0:19:09.70,0:19:11.00,Main-207+,,0,0,0,,Moon Walk !{\fad(150,150)}
 Dialogue: 0,0:19:21.33,0:19:23.18,Main-207+,,0,0,0,,Arrête ça !
-Dialogue: 0,0:19:38.61,0:19:43.36,Main-207+,,0,0,0,,Comme je l'ai promis, {I'll kill you in\Nan instant. Die without pain.}ta mort sera instantanée et sans douleur.
-Dialogue: 0,0:19:43.36,0:19:47.04,Main-207+,,0,0,0,,Dommage. Si tu étais resté connecté avec\Nce berger et qu'il t'avait protégé,
-Dialogue: 0,0:19:47.04,0:19:48.91,Main-207+,,0,0,0,,tu aurais été bien.
+Dialogue: 0,0:19:38.61,0:19:43.36,Main-207+,,0,0,0,,As I promised, {I'll kill you in\Nan instant. Die without pain.}your death will be instantaneous and without pain.
+Dialogue: 0,0:19:43.36,0:19:47.04,Main-207+,,0,0,0,,Dommage. Si tu étais resté avec\Nce berger et qu'il t'avait protégé,
+Dialogue: 0,0:19:47.04,0:19:48.91,Main-207+,,0,0,0,,tu aurais été en sécurité.
 Dialogue: 0,0:19:49.08,0:19:53.88,Main-207+,,0,0,0,,Tu vois ce qui arrive quand un\Nagneau s'éloigne tout seul ?
 Dialogue: 0,0:19:53.88,0:19:57.34,Main-207+,,0,0,0,,Il se fait manger par un loup effrayant.
 Dialogue: 0,0:20:00.33,0:20:02.78,Main-207+,,0,0,0,,Maintenant, c'est la fin pour toi !
-Dialogue: 0,0:20:02.78,0:20:05.43,Main-207+,,0,0,0,,Hé, arrête ça, loup ! Espèce de salaud !
+Dialogue: 0,0:20:02.78,0:20:05.43,Main-207+,,0,0,0,,Hé, arrête ça, loup ! Espèce de bâtard !
 Dialogue: 0,0:20:05.43,0:20:08.56,Main-207+,,0,0,0,,Ne le tue pas ! S'il te plaît ! Nous n'avons pas besoin de ta clé !
-Dialogue: 0,0:20:10.36,0:20:13.96,Main-207+,,0,0,0,,Imbécile ! Tu seras le prochain à mourir !
-Dialogue: 0,0:20:16.33,0:20:17.48,Main-207+,,0,0,0,,Jambe du Cyclone !{\fad(150,150)}
+Dialogue: 0,0:20:10.36,0:20:13.96,Main-207+,,0,0,0,,Imbécile ! Tu vas mourir après !
+Dialogue: 0,0:20:16.33,0:20:17.48,Main-207+,,0,0,0,,Tempête de Jambes !{\fad(150,150)}
 Dialogue: 0,0:20:18.79,0:20:19.86,Main-207+,,0,0,0,,Mince !
 Dialogue: 0,0:20:19.86,0:20:22.49,Main-207+,,0,0,0,,Maintenant, meurs !
 Dialogue: 0,0:20:28.24,0:20:30.34,Main-207+,,0,0,0,,Usopp !
@@ -4728,4 +4728,6 @@ Comment: 0,0:01:30.56,0:01:33.65,Kanji,,0,0,0,karaoke,{\k41}{\k23}追｜お{\k34
 Comment: 0,0:01:33.69,0:01:36.64,Kanji,,0,0,0,karaoke,{\k30}{\k17}目｜め{\k41}に{\k14}映｜う{\k20}＃｜つ{\k45}る{\k31}全｜す{\k35}#｜べ{\k24}て{\k16}今｜い{\k22}#｜ま
 Comment: 0,0:01:36.65,0:01:39.16,Kanji,,0,0,0,karaoke,{\k16}{\k18}真｜ま{\k13}っ{\k43}白｜し{\k18}#｜ろ{\k19}な{\k19}心｜こ{\k21}#｜こ{\k37}#｜ろ{\k47}に
 Comment: 0,0:01:39.16,0:01:41.52,Kanji,,0,0,0,karaoke,{\k20}{\k26}記｜し{\k26}#｜る{\k49}し{\k36}て{\k35}ゆ{\k22}こ{\k22}う
+
+49}し{\k36}て{\k35}ゆ{\k22}こ{\k22}う
 
